@@ -1,0 +1,3 @@
+In this piece, 4.3 I am struggling, its was just a little piece wrong.
+This mistake happened because my code didn’t print the message when an item couldn’t be filled due to no stock left at the station. 
+Instead, it was printing a message as if a different item had been filled.
